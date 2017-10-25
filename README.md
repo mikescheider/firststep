@@ -6,7 +6,6 @@
         <meta name="description" content="Unseree einzigartige Beschreibung der Seite">
     </head>
     <body>
-        <h1>Test</h1>
-        <h2>1234</h2>
+        <img src="https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/start-coding-banner.jpg"> 
     </body>
 </html>
