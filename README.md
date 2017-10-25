@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="uft-8">
-        <title>firststep</title>
+        <title>HTML Body</title>
         <meta name="description" content="Unseree einzigartige Beschreibung der Seite">
     </head>
     <body>
